@@ -1,0 +1,28 @@
+{
+	"bookDatas" : [
+		{
+			"bookId" : 0,
+			"title" : "tekitou",
+			"thumbnailURL" : "www.fdasjdsalkf.jpg",
+			"releaseDate" : 20220131,
+			"genre" : "manga",
+			"price" : false
+		},
+		{
+			"bookId" : 1,
+			"title" : "tekitou2",
+			"thumbnailURL" : "www.fdasjdsalkf.jpg",
+			"releaseDate" : 20220131,
+			"genre" : "novel",
+			"price" : true
+		},
+		{
+			"bookId" : 2,
+			"title" : "tekitou3",
+			"thumbnailURL" : "www.fdasjdsalkf.jpg",
+			"releaseDate" : 20220131,
+			"genre" : "manga",
+			"price" : false
+		}
+	]
+}
