@@ -2,27 +2,48 @@
 	"bookDatas" : [
 		{
 			"bookId" : 0,
-			"title" : "tekitou",
+			"title" : "Tekitou",
+			"seriesTag" : "TekitouSeries",
+			"episodeTag" : 0,
 			"thumbnailURL" : "www.fdasjdsalkf.jpg",
-			"releaseDate" : 20220131,
+			"imageURL" :  "www.content.zip",
+			"textURL" :  "www.contentText.zip",
+			"DateReleased" : 20230101,
+			"DateAdded" : 20230102,
 			"genre" : "manga",
-			"price" : false
+			"price" : 100,
+			"trophy" : "www.trophy.zip",
+			"visible" : true
 		},
 		{
-			"bookId" : 1,
-			"title" : "tekitou2",
-			"thumbnailURL" : "www.fdasjdsalkf.jpg",
-			"releaseDate" : 20220131,
-			"genre" : "novel",
-			"price" : true
+		"bookId" : 1,
+		"title" : "Serious",
+		"seriesTag" : "SeriousSeries",
+		"episodeTag" : 0,
+		"thumbnailURL" : "www.fdasjdsalkf.jpg",
+		"imageURL" :  "www.content.zip",
+		"textURL" :  "www.contentText.zip",
+		"DateReleased" : 20230101,
+		"DateAdded" : 20230102,
+		"genre" : "novel",
+		"price" : 300,
+		"trophy" : "www.trophy.zip",
+		"visible" : true
 		},
 		{
-			"bookId" : 2,
-			"title" : "tekitou3",
-			"thumbnailURL" : "www.fdasjdsalkf.jpg",
-			"releaseDate" : 20220131,
-			"genre" : "manga",
-			"price" : false
-		}
+		"bookId" : 3,
+		"title" : "Tekitou",
+		"seriesTag" : "TekitouSeries",
+		"episodeTag" : 1,
+		"thumbnailURL" : "www.fdasjdsalkf.jpg",
+		"imageURL" :  "www.content.zip",
+		"textURL" :  "www.contentText.zip",
+		"DateReleased" : 20230101,
+		"DateAdded" : 20230102,
+		"genre" : "manga",
+		"price" : 100,
+		"trophy" : "www.trophy.zip",
+		"visible" : true
+		},
 	]
 }
