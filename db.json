@@ -15,5 +15,35 @@
 			"trophy" : "www.trophy.zip",
 			"visible" : true
 		},
+		{
+			"bookId" : 1,
+			"title" : "Serious",
+			"seriesTag" : "SeriousSeries",
+			"episodeTag" : 0,
+			"thumbnailURL" : "www.fdasjdsalkf.jpg",
+			"imageURL" :  "www.content.zip",
+			"textURL" :  "www.contentText.zip",
+			"DateReleased" : 20230101,
+			"DateAdded" : 20230102,
+			"genre" : ["novel","drama"],
+			"price" : 300,
+			"trophy" : "www.trophy.zip",
+			"visible" : true
+		},
+		{
+			"bookId" : 3,
+			"title" : "Tekitou",
+			"seriesTag" : "TekitouSeries",
+			"episodeTag" : 1,
+			"thumbnailURL" : "www.fdasjdsalkf.jpg",
+			"imageURL" :  "www.content.zip",
+			"textURL" :  "www.contentText.zip",
+			"DateReleased" : 20230101,
+			"DateAdded" : 20230102,
+			"genre" : ["manga", "comedy"],
+			"price" : 100,
+			"trophy" : "www.trophy.zip",
+			"visible" : true
+		}
 	]
 }
