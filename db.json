@@ -6,8 +6,9 @@
 			"seriesTag" : "TekitouSeries",
 			"episodeTag" : 0,
 			"thumbnailURL" : "www.fdasjdsalkf.jpg",
-			"imageURL" :  "www.content.zip",
-			"textURL" :  "www.contentText.zip",
+			"imageURL" :  "www.image_bookId.zip",
+			"textURL" :  "www.text_bookId.zip",
+			"fileName" : "bookId.zip",
 			"DateReleased" : 20230101,
 			"DateAdded" : 20230102,
 			"genre" : ["manga", "comedy"],
@@ -44,6 +45,68 @@
 			"price" : 100,
 			"trophy" : "www.trophy.zip",
 			"visible" : true
+		}
+	],
+	"bookDatas" : [
+		{
+			"bookId" : 1,
+			"title" : "Tekitou",
+			"seriesTag" : "TekitouSeries",
+			"episodeTag" : 0,
+			"thumbnailURL" : "www.fdasjdsalkf.jpg",
+			"imageURL" :  "www.image_bookId.zip",
+			"textURL" :  "www.text_bookId.zip",
+			"fileName" : "bookId.zip",
+			"DateReleased" : 20230101,
+			"DateAdded" : 20230102,
+			"genre" : ["manga", "comedy"],
+			"price" : 100,
+			"trophy" : "www.trophy.zip",
+			"visible" : true
+		},
+		{
+			"bookId" : 2,
+			"title" : "Serious",
+			"seriesTag" : "SeriousSeries",
+			"episodeTag" : 0,
+			"thumbnailURL" : "www.fdasjdsalkf.jpg",
+			"imageURL" :  "www.content.zip",
+			"textURL" :  "www.contentText.zip",
+			"DateReleased" : 20230101,
+			"DateAdded" : 20230102,
+			"genre" : ["novel","drama"],
+			"price" : 300,
+			"trophy" : "www.trophy.zip",
+			"visible" : true
+		},
+		{
+			"bookId" : 3,
+			"title" : "Tekitou",
+			"seriesTag" : "TekitouSeries",
+			"episodeTag" : 1,
+			"thumbnailURL" : "www.fdasjdsalkf.jpg",
+			"imageURL" :  "www.content.zip",
+			"textURL" :  "www.contentText.zip",
+			"DateReleased" : 20230101,
+			"DateAdded" : 20230102,
+			"genre" : ["manga", "comedy"],
+			"price" : 100,
+			"trophy" : "www.trophy.zip",
+			"visible" : true
+		}
+	],
+	"imgURL" : [
+		{
+			"bookId" : 1,
+			"urls" : ["www.bookDatas/01/imgDir/01.jpg", "www.bookDatas/01/imgDir/02.jpg", "www.bookDatas/01/imgDir/03.jpg"]
+		},
+		{
+			"bookId" : 2,
+			"urls" : ["www.bookDatas/02/imgDir/01.jpg", "www.bookDatas/02/imgDir/02.jpg", "www.bookDatas/02/imgDir/03.jpg"]
+		},
+		{
+			"bookId" : 3,
+			"urls" : ["www.bookDatas/03/imgDir/01.jpg", "www.bookDatas/03/imgDir/02.jpg", "www.bookDatas/03/imgDir/03.jpg"]
 		}
 	]
 }
